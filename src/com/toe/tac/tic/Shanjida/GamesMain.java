@@ -1,4 +1,3 @@
-/* Shanjida Hossain */
 package com.toe.tac.tic.Shanjida;
 import java.net.URL;
 import javafx.application.Application;
