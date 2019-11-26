@@ -1,6 +1,6 @@
 .title-label, .custom-label {
-  -fx-font-size:70px;
-   -fx-alignment:center;
+  -fx-font-size:50px;
+  -fx-alignment:center;
 }
 
 .custom-label {
