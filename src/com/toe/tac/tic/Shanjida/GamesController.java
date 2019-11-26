@@ -64,7 +64,7 @@ public class GamesController {
 			lvlMessage.setText("");
 		});
 	}
-
+	
 	@FXML
 	void XOrOSelected(MouseEvent event) {
 		Label label = (Label) event.getSource(); // Down Casting = going from object to level
